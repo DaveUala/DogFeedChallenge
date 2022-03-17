@@ -1,0 +1,10 @@
+/* 
+  Strings.strings
+  David Castro Konfio Challenge
+
+  Created by David Castro Cisneros on 14/03/22.
+  
+*/
+
+"DOG_LOCAL_TITLE" = "Dogs We Love";
+"DOG_FEED_TRY_AGAIN_ERROR" = "Pull to try again";
