@@ -17,7 +17,7 @@
                BlueprintIdentifier = "9071309127D719FD00B364B2"
                BuildableName = "Networking.framework"
                BlueprintName = "Networking"
-               ReferencedContainer = "container:David Castro Konfio Challenge.xcodeproj">
+               ReferencedContainer = "container:David Castro Challenge.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -31,7 +31,7 @@
                BlueprintIdentifier = "907130BF27D7329600B364B2"
                BuildableName = "NetworkingEndToEndTests.xctest"
                BlueprintName = "NetworkingEndToEndTests"
-               ReferencedContainer = "container:David Castro Konfio Challenge.xcodeproj">
+               ReferencedContainer = "container:David Castro Challenge.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -45,7 +45,7 @@
                BlueprintIdentifier = "907130A027D71A3900B364B2"
                BuildableName = "NetworkingTests.xctest"
                BlueprintName = "NetworkingTests"
-               ReferencedContainer = "container:David Castro Konfio Challenge.xcodeproj">
+               ReferencedContainer = "container:David Castro Challenge.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -64,7 +64,7 @@
                BlueprintIdentifier = "907130A027D71A3900B364B2"
                BuildableName = "NetworkingTests.xctest"
                BlueprintName = "NetworkingTests"
-               ReferencedContainer = "container:David Castro Konfio Challenge.xcodeproj">
+               ReferencedContainer = "container:David Castro Challenge.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -92,7 +92,7 @@
             BlueprintIdentifier = "9071309127D719FD00B364B2"
             BuildableName = "Networking.framework"
             BlueprintName = "Networking"
-            ReferencedContainer = "container:David Castro Konfio Challenge.xcodeproj">
+            ReferencedContainer = "container:David Castro Challenge.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

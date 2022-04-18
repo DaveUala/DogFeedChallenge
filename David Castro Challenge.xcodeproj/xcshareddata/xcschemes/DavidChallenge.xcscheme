@@ -17,7 +17,7 @@
                BlueprintIdentifier = "90CA9FF527DB2F86007B5FDE"
                BuildableName = "DavidChallenge.app"
                BlueprintName = "DavidChallenge"
-               ReferencedContainer = "container:David Castro Konfio Challenge.xcodeproj">
+               ReferencedContainer = "container:David Castro Challenge.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -31,7 +31,7 @@
                BlueprintIdentifier = "90CAA00A27DB2F88007B5FDE"
                BuildableName = "DavidChallengeTests.xctest"
                BlueprintName = "DavidChallengeTests"
-               ReferencedContainer = "container:David Castro Konfio Challenge.xcodeproj">
+               ReferencedContainer = "container:David Castro Challenge.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -45,7 +45,7 @@
                BlueprintIdentifier = "90CAA02C27DB3069007B5FDE"
                BuildableName = "iOSAppSnapshotTests.xctest"
                BlueprintName = "iOSAppSnapshotTests"
-               ReferencedContainer = "container:David Castro Konfio Challenge.xcodeproj">
+               ReferencedContainer = "container:David Castro Challenge.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -59,7 +59,7 @@
                BlueprintIdentifier = "909BDD5427DEEF3A003E2086"
                BuildableName = "iOSComponentsUIKitTests.xctest"
                BlueprintName = "iOSComponentsUIKitTests"
-               ReferencedContainer = "container:David Castro Konfio Challenge.xcodeproj">
+               ReferencedContainer = "container:David Castro Challenge.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -77,7 +77,7 @@
                BlueprintIdentifier = "90CAA00A27DB2F88007B5FDE"
                BuildableName = "DavidChallengeTests.xctest"
                BlueprintName = "DavidChallengeTests"
-               ReferencedContainer = "container:David Castro Konfio Challenge.xcodeproj">
+               ReferencedContainer = "container:David Castro Challenge.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -99,7 +99,7 @@
             BlueprintIdentifier = "90CA9FF527DB2F86007B5FDE"
             BuildableName = "DavidChallenge.app"
             BlueprintName = "DavidChallenge"
-            ReferencedContainer = "container:David Castro Konfio Challenge.xcodeproj">
+            ReferencedContainer = "container:David Castro Challenge.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <CommandLineArguments>
@@ -122,7 +122,7 @@
             BlueprintIdentifier = "90CA9FF527DB2F86007B5FDE"
             BuildableName = "DavidChallenge.app"
             BlueprintName = "DavidChallenge"
-            ReferencedContainer = "container:David Castro Konfio Challenge.xcodeproj">
+            ReferencedContainer = "container:David Castro Challenge.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

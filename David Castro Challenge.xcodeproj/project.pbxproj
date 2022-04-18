@@ -1090,7 +1090,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 9071304927D719CC00B364B2 /* Build configuration list for PBXProject "David Castro Konfio Challenge" */;
+			buildConfigurationList = 9071304927D719CC00B364B2 /* Build configuration list for PBXProject "David Castro Challenge" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -2124,7 +2124,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9071304927D719CC00B364B2 /* Build configuration list for PBXProject "David Castro Konfio Challenge" */ = {
+		9071304927D719CC00B364B2 /* Build configuration list for PBXProject "David Castro Challenge" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				9071307127D719CD00B364B2 /* Debug */,

@@ -28,8 +28,8 @@ public final class CardTableViewCell: UITableViewCell {
     }
 
     public func configure(viewModel: CardViewModel) {
-        titleLabel.text = viewModel.title
-        descriptionLabel.text = viewModel.description
+        titleLabel.text = viewModel.description
+        descriptionLabel.text = viewModel.title
         footerLabel.text = viewModel.footer
     }
 

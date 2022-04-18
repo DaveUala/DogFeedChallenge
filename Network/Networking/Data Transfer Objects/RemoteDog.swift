@@ -10,6 +10,6 @@ import Foundation
 struct RemoteDog: Decodable {
     let dogName: String
     let description: String
-    let age: Int
+    let dogAge: Int
     let image: URL
 }

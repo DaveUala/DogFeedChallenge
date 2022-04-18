@@ -8,6 +8,11 @@
 import UIKit
 import iOSComponentsUIKit
 
+struct Dogg: Decodable {
+    let dogName: String
+    let age: Int
+}
+
 final class DogFeedTableViewController: UITableViewController {
     private var refreshController: DogFeedRefreshViewController?
     private(set) lazy var errorLabel: UILabel = .makeWithUnlimitedLines(size: 17.0)

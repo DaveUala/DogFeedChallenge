@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "907130A027D71A3900B364B2"
+               BuildableName = "NetworkingTests.xctest"
+               BlueprintName = "NetworkingTests"
+               ReferencedContainer = "container:David Castro Challenge.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -16,10 +32,10 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "909BDD6D27DEEF5E003E2086"
-               BuildableName = "iOSComponentsUIKitSnapshotTests.xctest"
-               BlueprintName = "iOSComponentsUIKitSnapshotTests"
-               ReferencedContainer = "container:David Castro Konfio Challenge.xcodeproj">
+               BlueprintIdentifier = "907130BF27D7329600B364B2"
+               BuildableName = "NetworkingEndToEndTests.xctest"
+               BlueprintName = "NetworkingEndToEndTests"
+               ReferencedContainer = "container:David Castro Challenge.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
